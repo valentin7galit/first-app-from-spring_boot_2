@@ -1,1 +1,1 @@
-# first-app-from-spring_boot_2
+# Created the first application(Blog) from Spring Boot 2
